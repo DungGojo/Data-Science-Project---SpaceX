@@ -1,17 +1,5 @@
 # SpaceX Falcon 9 First Stage Landing Prediction
 
-## Table of Contents
-
-Project Overview
-
-Data Collection
-
-Exploratory Data Analysis (EDA)
-
-Machine Learning Models
-
-Results and Insights
-
 ## Project Overview
 This project aims to predict whether the first stage of SpaceX's Falcon 9 rocket will successfully land, which is critical for the reusability of rockets and reducing launch costs. The project involves gathering data from SpaceX launches, conducting Exploratory Data Analysis (EDA), and building machine learning models to predict landing outcomes based on various factors such as launch site, payload mass, and orbit type. The insights gathered from this analysis can help a competing company, Space Y, optimize their launches and reduce costs by reusing rockets like SpaceX.
 
